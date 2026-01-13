@@ -11,6 +11,7 @@ Tenho formação em **Design Gráfico** e atualmente curso **Análise e Desenvol
 <h3>Tecnologias principais</h3>
 - PHP 8.2 | Laravel 11 <br>
 - HTML5 | CSS3 | JavaScript <br>
+- React <br>
 - MySQL <br>
 - Bootstrap
 
@@ -21,6 +22,7 @@ Tenho formação em **Design Gráfico** e atualmente curso **Análise e Desenvol
   <img align="center" alt="Logo-HTML" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="Logo-CSS" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img align="center" alt="Logo-Js" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
+  <img align="center" alt="Logo-React" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
   <img align="center" alt="Logo-MySQL" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
   <img align="center" alt="Logo-Bootstrap" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp;
   
