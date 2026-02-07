@@ -17,14 +17,14 @@ Tenho formação em **Design Gráfico** e atualmente curso **Análise e Desenvol
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Logo-PHP" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
-  <img align="center" alt="Logo-Laravel" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"> &nbsp;
+  <img align="center" alt="Logo-React" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+  <img align="center" alt="Logo-Bootstrap" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp;
   <img align="center" alt="Logo-HTML" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="Logo-CSS" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img align="center" alt="Logo-Js" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-  <img align="center" alt="Logo-React" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+  <img align="center" alt="Logo-PHP" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
+  <img align="center" alt="Logo-Laravel" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"> &nbsp;
   <img align="center" alt="Logo-MySQL" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
-  <img align="center" alt="Logo-Bootstrap" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> &nbsp;
   
 </div>
 
