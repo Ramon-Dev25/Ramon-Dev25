@@ -10,7 +10,7 @@ Tenho formação em **Design Gráfico** e atualmente curso **Análise e Desenvol
 
 <h3>Tecnologias principais</h3>
 - React <br>
-- Bootstrap
+- Bootstrap <br>
 - PHP 8.2 | Laravel 11 <br>
 - HTML5 | CSS3 | JavaScript <br>
 - MySQL <br>
