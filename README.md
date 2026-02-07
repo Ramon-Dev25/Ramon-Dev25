@@ -2,18 +2,18 @@
 <h3 align="center">Olá, eu sou o Ramon!</h3>
 <br>
 
-Sou desenvolvedor **Full Stack com foco em desenvolvimento web**, atuando na criação e implementação de soluções para sistemas e sites reais.<br>
+Sou desenvolvedor **Front-End com foco em desenvolvimento web**, atuando na criação e implementação de soluções para sistemas e sites reais.<br>
 
 Tenho formação em **Design Gráfico** e atualmente curso **Análise e Desenvolvimento de Sistemas**, unindo visão estética, usabilidade e lógica de programação para desenvolver aplicações eficientes, organizadas e funcionais.
 
 ##
 
 <h3>Tecnologias principais</h3>
+- React <br>
+- Bootstrap
 - PHP 8.2 | Laravel 11 <br>
 - HTML5 | CSS3 | JavaScript <br>
-- React <br>
 - MySQL <br>
-- Bootstrap
 
 <div style="display: inline_block"><br>
   
